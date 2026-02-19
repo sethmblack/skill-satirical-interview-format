@@ -1,18 +1,19 @@
 ---
 name: satirical-interview-format
-description: "Build dialogues where absurd claims are treated with complete seriousness through professional interview structure"
+description: Build dialogues where absurd claims are treated with complete seriousness through professional interview structure
 license: MIT
 metadata:
-  version: 1.0.0"1.0.0"
-  author: "Seth Black"
+  version: 1.0.4902
+  author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - comedy
-  - satire
-  - interview
-  - peter-cook
-  - delusion
-  - deadpan
-  - dialogue
+- comedy
+- satire
+- interview
+- peter-cook
+- delusion
+- deadpan
+- dialogue
 ---
 
 # Satirical Interview Format
